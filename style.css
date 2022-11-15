@@ -24,7 +24,8 @@
 .search_box > .searchT{
     background: linear-gradient(91.47deg, #DC3E88 18.25%, #B840AE 43.34%, #843FE8 78.18%);
     padding: 8px 55px;
-    outline: none;
+    outline: 0;
+    border: 0;
 }
 
 .rate_container{
