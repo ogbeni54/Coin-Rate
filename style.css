@@ -28,6 +28,9 @@
     border: 0;
     color: rgb(67, 161, 161);
 }
+::placeholder{
+    color: rgb(67, 161, 161);
+}
 
 .rate_container{
     display: flex;
